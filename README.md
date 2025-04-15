@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm upkero</h1>
 
 <p align="center">
-  🐍 Python backend developer
+  🐍 Python backend developer 🐍
 </p>
 
 ---
@@ -9,7 +9,6 @@
 ### 🧠 About me
 
 I specialize in building web applications and solving backend problems with Python.
-I work with Django, REST APIs, and databases to create efficient and scalable solutions.
 I focus on delivering well-structured, maintainable projects with clean and readable code.
 <!--
 ---
@@ -23,7 +22,7 @@ I focus on delivering well-structured, maintainable projects with clean and read
 
 ### 🛠️ Tools & Tech
 
-- 🐍 Python
+- 💻 Python
 - ⚡️ Django, Flask, FastAPI  
 - 🗄️ PostgreSQL, Redis, etc.
 - 🛳️ Docker, k8s
