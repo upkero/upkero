@@ -23,7 +23,8 @@ I focus on delivering well-structured, maintainable projects with clean and read
 ### 🛠️ Tools & Tech
 
 - 💻 Python
-- ⚡️ Django, Flask, FastAPI  
+- ⚡️ Django, Flask, FastAPI
+- 📡 REST API
 - 🗄️ PostgreSQL, Redis, etc.
 - 🛳️ Docker, k8s
 - 📦 And much more..
