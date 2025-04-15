@@ -8,7 +8,7 @@
 
 ### 🧠 About me
 
-I specialize in building web applications and solving backend problems with Python.
+I build web applications and solving backend problems with Python.
 I focus on delivering well-structured, maintainable projects with clean and readable code.
 <!--
 ---
@@ -27,7 +27,7 @@ I focus on delivering well-structured, maintainable projects with clean and read
 - 📡 REST API
 - 🗄️ PostgreSQL, Redis, etc.
 - 🛳️ Docker, k8s
-- 📦 And much more..
+- 📦 And much more...
 <!--
 ---
 
