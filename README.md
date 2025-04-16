@@ -28,13 +28,14 @@ I focus on delivering well-structured, maintainable projects with clean and read
 - 🗄️ PostgreSQL, Redis, etc.
 - 🛳️ Docker, k8s
 - 📦 And much more...
-<!--
+
 ---
 
 ### 📬 Reach out
 
-- Email: [](mailto:something@gmail.com)
--->
+- Telegram: [@upkero](https://t.me/upkero)
+- Email: [upkero@icloud.com](mailto:upkero@icloud.com)
+
 ---
 
 <p align="center">
