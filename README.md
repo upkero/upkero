@@ -6,9 +6,8 @@
 
 ---
 <div align="center">
-### 📬 Reach out
-
-- Email: [upkero@icloud.com](mailto:upkero@icloud.com)
+<h3>📬 Reach out</h3>
+Email: [upkero@icloud.com](mailto:upkero@icloud.com)
 </div>
 ---
 
