@@ -5,10 +5,12 @@
 </p>
 
 ---
+
 <div align="center">
 <h3>📬 Reach out</h3>
-Email: [upkero@icloud.com](mailto:upkero@icloud.com)
+Email: <a href="mailto:upkero@icloud.com">upkero@icloud.com</a>
 </div>
+
 ---
 
 <p align="center">
